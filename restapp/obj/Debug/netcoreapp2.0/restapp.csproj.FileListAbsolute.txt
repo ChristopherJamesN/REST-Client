@@ -1,0 +1,11 @@
+/Users/christophernady/restapp/bin/Debug/netcoreapp2.0/restapp.deps.json
+/Users/christophernady/restapp/bin/Debug/netcoreapp2.0/restapp.runtimeconfig.json
+/Users/christophernady/restapp/bin/Debug/netcoreapp2.0/restapp.runtimeconfig.dev.json
+/Users/christophernady/restapp/bin/Debug/netcoreapp2.0/restapp.dll
+/Users/christophernady/restapp/bin/Debug/netcoreapp2.0/restapp.pdb
+/Users/christophernady/restapp/obj/Debug/netcoreapp2.0/restapp.csproj.CoreCompileInputs.cache
+/Users/christophernady/restapp/obj/Debug/netcoreapp2.0/restapp.AssemblyInfoInputs.cache
+/Users/christophernady/restapp/obj/Debug/netcoreapp2.0/restapp.AssemblyInfo.cs
+/Users/christophernady/restapp/obj/Debug/netcoreapp2.0/restapp.dll
+/Users/christophernady/restapp/obj/Debug/netcoreapp2.0/restapp.pdb
+/Users/christophernady/restapp/obj/Debug/netcoreapp2.0/restapp.csprojResolveAssemblyReference.cache
